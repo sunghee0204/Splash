@@ -10,7 +10,7 @@ AUTHORIZATION_FAILED: invalid android_key_hash or ios_bundle_id or web_site_url
 ```
 
 ## kotlin version probelm (build.gradle)
-
+/android/build.gradle
 ```
 ext{ kotlinVersion = '1.5.31' }
 dependencies { classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersion") }
