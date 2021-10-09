@@ -18,6 +18,7 @@ dependencies { classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersi
 
 ## Execution failed for task ':app:packageDebug'
 <a>https://hwangtaehyun.github.io/blog/android_emulator/OutOfMemory_Error/</a>
+
 /android/app/src/main/AndroidManifest.xml
 ```
 <applicaiton>
