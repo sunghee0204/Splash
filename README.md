@@ -26,6 +26,4 @@ android:largeHeap=”true”
 ```
 ## ios
 
-```
 <a>https://coding-dahee.tistory.com/159</a>
-```
