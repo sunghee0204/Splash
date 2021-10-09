@@ -18,9 +18,9 @@ dependencies { classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersi
 
 ## Execution failed for task ':app:packageDebug'
 <a>https://hwangtaehyun.github.io/blog/android_emulator/OutOfMemory_Error/</a>
-
+/android/app/src/main/AndroidManifest.xml
 ```
-</applicaiton> 태그안에
+<applicaiton>
 android:largeHeap=”true”
-entry를 추가해주니 해결되었다.
+/>
 ```
