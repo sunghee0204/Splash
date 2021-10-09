@@ -1,7 +1,6 @@
-# Splash
+# KakaoLogin Error Handling
 
 <a>https://kagus2.tistory.com/24</a>
-
 
 ```
 AUTHORIZATION_FAILED: invalid android_key_hash or ios_bundle_id or web_site_url
@@ -24,4 +23,9 @@ dependencies { classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlinVersi
 <applicaiton>
 android:largeHeap=”true”
 />
+```
+## ios
+
+```
+<a>https://coding-dahee.tistory.com/159</a>
 ```
