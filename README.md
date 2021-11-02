@@ -27,10 +27,3 @@ android:largeHeap=”true”
 ## ios
 
 <a>https://coding-dahee.tistory.com/159</a>
-
-## android emulator not launching
-
-```
-export JAVA_HOME="/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home"
-```
-add .zshrc
